@@ -1,0 +1,2 @@
+rootProject.name = "Consult API"
+include ':app'
